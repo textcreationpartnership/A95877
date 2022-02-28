@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Against VVilliam Li-Lie (alias) Lillie that most audacious atheisticall rayling Rabsheca, that impious witch or wizzard, and most abhominable sorcerer, or star-gazer of London, and all his odious almanacks, and others. / Written by John Viccars schoolemaster of Christ Hospitall, few dayes before his death, which he had prepared for the Black Munday, turned white since his dissolution.</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95877</idno>
+            <idno type="STC">Wing V292</idno>
+            <idno type="STC">Thomason 669.f.16[42]</idno>
+            <idno type="STC">ESTC R211431</idno>
+            <idno type="STC">ESTC R211472</idno>
+            <idno type="EEBO-CITATION">99870158</idno>
+            <idno type="PROQUEST">99870158</idno>
+            <idno type="VID">163197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163197)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Against VVilliam Li-Lie (alias) Lillie that most audacious atheisticall rayling Rabsheca, that impious witch or wizzard, and most abhominable sorcerer, or star-gazer of London, and all his odious almanacks, and others. / Written by John Viccars schoolemaster of Christ Hospitall, few dayes before his death, which he had prepared for the Black Munday, turned white since his dissolution.</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare when the astrologers and mountebanks lost their judgments, 29 March, 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place from Wing.</note>
+                  <note>Verse -- "How vain, how light, how foolish, &amp; how naught,".</note>
+                  <note>Annotation on Thomason copy: "Mar 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163197:1" rendition="simple:additions"/>
+            <head>Againſt William LI-LIE (alias) Lillie, that
+MOST AUDACIOUS ATHEISTICALL
+Rayling RABSHECA, that Impious WITCH or WIZZARD,
+and moſt Abhominable SORCERER, or STAR-GAZER of LONDON,
+and all his Odious ALMANACKS, and Others.</head>
+            <byline>Written by John Viccars Schoolemaſter of Chriſt Hoſpitall, few dayes before his death, which he had prepared for
+the Black Munday, turned white ſince his diſſolution.</byline>
+            <epigraph>
+               <bibl>Iſaiah 47. 12, 13, 14.</bibl>
+               <q>
+                  <p>Stand, now with thine Inchantments, and with the multi<g ref="char:EOLhyphen"/>tude
+of thy Sorceries, wherein thou haſt laboured from thy youth:
+if ſo be thou ſhalt be able to profit, if ſo be thou may'ſt prevaile:
+Thou art wearied in the multitude of thy Counſels; Let now
+the Aſtrologers, the Star-gazers, the Monethly Prognoſticators
+ſtand up and ſave thee, from thoſe things that ſhall come upon
+thee. Behold, they ſhall be as Stuble, the fire ſhall burn them,
+they ſhall not deliver themſelves from the power of the flame.</p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <bibl>Acts 13. 8, 9, 10.</bibl>
+               <q>
+                  <p>But, Elymas this Sorcerer, with-ſtood <hi>Paul</hi> and <hi>Barnabas,</hi>
+(juſt, as the Sorcerer <hi>Lilly,</hi> does all the Bleſſed, Reverend, and
+Religious Diſciples and <hi>Presbyterian</hi> Minniſters of Jeſus
+Chriſt;) Whereupon, <hi>Paul</hi> filled with the Holy-Ghoſt, ſet his
+eyes on him and ſaid, O, full of all Subtilty, and all Miſchief,
+thou Child of the Divell, thou Enemie of all Righteouſneſſe!
+wilt thou not ceaſe to pervert the right wayes of the Lorde?</p>
+               </q>
+            </epigraph>
+            <div type="epigram">
+               <head>EPIGRAMMA:
+In Lillium, bardum Astrologaſtrum:</head>
+               <lg xml:lang="lat">
+                  <l>LIllius eſt quid vis, est bardus; perditus, audax,</l>
+                  <l>Est mendax, aſinus, Li-lius Astrologus.</l>
+                  <l>Demon strat nomen, Te, mendaciſſimè Li-li,</l>
+                  <l>Nomine, bis Mendax dicere, re<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> magis.</l>
+                  <l>Iſtis, Quid levius, quibus eſt pro numine nomen</l>
+                  <l>Mendacis, magis eſt qui levitate, levis.</l>
+                  <l>Candida, mi Li-li non ſunt Tibi Lilia nomen;</l>
+                  <l>Vix, inter vepres nomen habere potes.</l>
+               </lg>
+               <lg xml:lang="eng">
+                  <l>HOw vain, how light, how fooliſh, &amp; how naught,</l>
+                  <l>Are all that praiſe Thee? &amp; thy books have bought?</l>
+                  <l>To call you <hi>Lille,</hi> more, it were a ſcorne,</l>
+                  <l>Your Name's a <hi>Netile, Thiſtle, Bryer,</hi> or <hi>Thorn;</hi>
+                  </l>
+                  <l>Your <hi>head,</hi> your <hi>Pen,</hi> your <hi>Tongue,</hi> doe pinch and ſting</l>
+                  <l>More than doth <hi>Nettle, Bryer,</hi> or any-thing.</l>
+                  <l>To <hi>Li-lie</hi> now, all men may well ſay, fie,</l>
+                  <l>Becauſe your Name ſaies, twice, to you, you lye.</l>
+                  <l>But, if you ſay, you have an L. in't more,</l>
+                  <l>Then adde you fiftie-lyes to two, before;</l>
+                  <l>Thus, Lies, for weeks make-up a iuſt New-year;</l>
+                  <l>O brave! what Almanaker have we here?</l>
+               </lg>
+               <trailer>Finis.</trailer>
+            </div>
+            <div type="epigram">
+               <head>Aliud, in Eundem
+OR,
+The foreſaid Latine Epigram Engliſhed
+and Enlarged.</head>
+               <l>
+                  <hi>LIllie</hi> is ought that's naught, Dunce, Wretch, paſt ſhame,</l>
+               <l>
+                  <hi>Li-lie's</hi> an Aſſe, Star-gazer. Lyes doth frame.</l>
+               <l>
+                  <hi>Li-lie,</hi> thy Name ſhewes thee a monſtrous Lyer,</l>
+               <l>In Name, a double-one, in Deed, much higher.</l>
+               <l>What's Idler, than to idolize his Name,</l>
+               <l>Whoſe lying-ſelf's more flaſhie than a flame?</l>
+               <l>White Lilie's no fit name for <hi>Li-lies</hi> baſe,</l>
+               <l>Scarce among Thornes may we ſuch Henbane place.</l>
+               <l>Yet, thus it ever was, and is ſo ſtill,</l>
+               <l>Faire names, oft, given to things and Men, moſt ill.</l>
+               <l>Thus, <hi>Jeroboams</hi> Calves call'd worſhip fair,</l>
+               <l>Thus, that notorious hypocritick-pair;</l>
+               <l>Both <hi>Ananias</hi> and <hi>Saphira</hi> had</l>
+               <l>Two gracious names, themſelves exceeding bad.</l>
+               <l>Thus divers Popes, as Clement, Cnnocent,</l>
+               <l>Had ſpecious names, natures moſt turbulent</l>
+               <l>Thus in our dayes, that develliſh Doctor <hi>Lamb,</hi>
+               </l>
+               <l>Favorite to the Duke of <hi>Buckingham,</hi>
+               </l>
+               <l>And this our filthie <hi>Li-lies</hi> elder Brother</l>
+               <l>For wicked Witcherie, juſt ſuch another;</l>
+               <l>Thus Sr. <hi>John Lamb</hi> a perſecutor baſe</l>
+               <l>Of Gods deare Saints; and, little <hi>Laudes</hi> leſſe Grace</l>
+               <l>Of Canterbury; and his chirping Wren</l>
+               <l>Had, all, fine names; but monſters were of Men,</l>
+               <l>For Craft and crueltie, and wickedneſſe,</l>
+               <l>All haters of the power of Godlineſſe.</l>
+               <l>And, ſo, this filthie <hi>Lillie,</hi> Athieſt vile,</l>
+               <l>Seemes, with a prettie name, to gull, beguile</l>
+               <l>Credulous fooles, with's develliſh falſe Praedictions</l>
+               <l>Stigian Inchantments, figure-caſting fictions.</l>
+               <l>Thus, with fair vailes, O how this wretch doth wrong,</l>
+               <l>The beſt of Gods deare Saints, whom, all along,</l>
+               <l>In all his wicked works, He does beſweare,</l>
+               <l>With develliſh Lies (whoſe very ſhoes to beare</l>
+               <l>This Atheiſt is unworthie) And, with fell</l>
+               <l>And furious rage (like * <hi>Cerberus</hi> of Hell</l>
+               <l>That ſtigian Tripple-Headed Hel-Hound baſe)</l>
+               <l>Our precious morning-Sermons does diſgrace,</l>
+               <l>Calls them, jejune, rebellious, vile, and vain,</l>
+               <l>And, <hi>Presbyterian-Bag-pipes.</hi> O profane,</l>
+               <l>Accurſed Atheiſt! O incarnate Devill!</l>
+               <l>Foe to all goodneſſe, friend to infernall evill.</l>
+               <l>But, certainly, our juſt and righteous God,</l>
+               <l>In time, will make him feele with wrathfull Rod</l>
+               <l>Of juſt revenge, for all his develliſh ſpight,</l>
+               <l>Againſt his Saints; As, once, he made it light</l>
+               <l>On * Doctor <hi>Lamb,</hi> his brother; If, the Lord</l>
+               <l>Grace of repentance does not him afford.</l>
+               <l>But, ſay, beſides; what reaſon has this Wretch,</l>
+               <l>Toad-like, with Pride and Rage, to ſtrut and ſtretch</l>
+               <l>Himſelfe, in admiration of his skill</l>
+               <l>Of ſtar-gazing-Aſtrologie, moſt ill,</l>
+               <l>As he it uſes? Since (as Linguiſts know)</l>
+               <l>From th' * Ebrew-root, Aſtrologus doe grow</l>
+               <l>The Latine <hi>Sterens, Sterquilinium,</hi>
+               </l>
+               <l>Which <hi>genuinely,</hi> doe unto thuſmuch come;</l>
+               <l>
+                  <hi>Aſtrologie</hi> is but a Dun-hill vile,</l>
+               <l>And <hi>Aſtrologians,</hi> Dung, baſe Knaves; with guile,</l>
+               <l>And lying Divinations fravght moſt full,</l>
+               <l>The mad-head Multitude to cheat and gull.</l>
+               <l>And as the Divell whom <hi>Endors</hi> Witch did call,</l>
+               <l>Inſtead of <hi>Samuel,</hi> to appeare to <hi>Saul,</hi>
+               </l>
+               <l>Did deal with him, mixt ſeeming-piety</l>
+               <l>To check and chide <hi>Sauls</hi> ſaid impiety</l>
+               <l>In coming to the Devill, when God had left him,</l>
+               <l>And of his Grace and help had quite bereft him:</l>
+               <l>Even ſo, this filthie dreamer, <hi>Li-lie</hi> vile,</l>
+               <l>Credit to gain, and ſlylier to beguile,</l>
+               <l>With his falſe Dreames, doth ſcripture intermix<g ref="char:punc">▪</g>
+               </l>
+               <l>And thus, ſtill perſonates the Prince of Stix,</l>
+               <l>Sathan, his Maſter, <hi>All</hi> his pamphlets ore,</l>
+               <l>
+                  <hi>And,</hi> with theſe Cheates, <hi>This</hi> witch does rage and roare;</l>
+               <l>
+                  <hi>Triumphing,</hi> if his Delphick-Divinations</l>
+               <l>But once hit right, for manifold fruſtrations.</l>
+               <l>Let, therefore, Zim, Jim, all <hi>Alectoe's</hi> train,</l>
+               <l>
+                  <hi>The</hi> Satyre, <hi>Shrich-owl,</hi> vulture flock, a main,</l>
+               <l>
+                  <hi>To</hi> lying <hi>Li-lie,</hi> in a chorus round,</l>
+               <l>
+                  <hi>And</hi> dance and ſing, with hideous yelping ſound,</l>
+               <l>Let vagrant Jipſies, fortune-tellers baſe,</l>
+               <l>Come to him, likewiſe, and with brazen face,</l>
+               <l>Chaunt-out their louſie joy, and ſtygian gladneſſe</l>
+               <l>In this their lying <hi>Almanakers</hi> madneſſe</l>
+               <l>
+                  <hi>And</hi> when the dance is done, their ſport is ended,</l>
+               <l>Bring him to's place; <hi>Thus,</hi> Earth ſhall be befriended.</l>
+               <trailer>Finis</trailer>
+               <epigraph>
+                  <bibl>Exodus 22. 18. Levit. 20. 27.</bibl>
+                  <q>
+                     <p>Thou ſhalt not ſuffer a Man or Woman that is a Witch Wiz<g ref="char:EOLhyphen"/>zard,
+Necromancer, or one that deales with Familliar Spirits to
+live among you.</p>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Yeare when the Aſtrologers and Mountebanks loſt their Judgments, 29 March, 1652.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
